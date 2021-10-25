@@ -1,0 +1,9 @@
+{
+  "short_name": "reactnd-project1",
+  "name": "React Nanodegree Project-1",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
